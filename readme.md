@@ -11,4 +11,4 @@
    - git branch canvas   
    - git checkout canas   
    - git merge canvas   
-   - git Alex
+   - git clone
